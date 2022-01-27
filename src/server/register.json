@@ -1,0 +1,61 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "fname": "Ashwathy",
+      "lname": "paniker",
+      "username": "ashwathy@gmail.com",
+      "email": "paniker@gmail.com",
+      "password": "1234533"
+    },
+    {
+      "fname": "Aparna",
+      "lname": "Paniker",
+      "uname": "apaz@z.c",
+      "email": "aparna@gmail.com",
+      "password": "88888888",
+      "id": 2
+    },
+    {
+      "fname": "Ashwathy",
+      "lname": "Paniker",
+      "uname": "as@j.v",
+      "email": "ashwathyraghunath@gmail.com",
+      "password": "Ashwathy@1999",
+      "id": 3
+    },
+    {
+      "fname": "sajitha",
+      "lname": "paniker",
+      "uname": "sajitha@gm.v",
+      "email": "sajitha@gmail.com",
+      "password": "44444444",
+      "id": 4
+    },
+    {
+      "fname": "ponnu",
+      "lname": "paniker",
+      "uname": "ponnu@w.m",
+      "email": "ponnu@gmail.com",
+      "password": "77777777",
+      "id": 5
+    },
+    {
+      "fname": "John",
+      "lname": "Jim",
+      "uname": "john@j.g",
+      "email": "john@gmail.com",
+      "password": "11111111",
+      "id": 6
+    }
+  ],
+  "table": [
+    {
+      "email": "sooraj@gmail.com",
+      "title": "write a novel",
+      "priority": "2",
+      "id": 1
+    }
+    
+  ]
+}

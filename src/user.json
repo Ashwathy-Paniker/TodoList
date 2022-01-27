@@ -1,0 +1,119 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fName": "Ashwathy",
+      "lName": "Paniker",
+      "uName": "Ashwathy.p",
+      "Email": "ashwathy@gmail.com",
+      "Pass": "ashwathy123",
+      "TaskList": [
+        {
+          "title": "Jogging",
+          "priority": "1",
+          "flag": true
+        },
+        {
+          "title": "walk",
+          "priority": "2",
+          "flag": false
+        }
+      ]
+    },
+    {
+      "fName": "Aparna",
+      "lName": "Paniker",
+      "uName": "aparna123",
+      "Email": "aparna@gmail.com",
+      "Pass": "aparna@123",
+      "TaskList": [
+        {
+          "title": "Reading",
+          "priority": "4",
+          "flag": false
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fName": "sajitha",
+      "lName": "paniker",
+      "uName": "saju@1",
+      "Email": "sajitha@gmail.com",
+      "Pass": "Sajitha@1234",
+      "TaskList": [
+        {
+          "title": "gardening",
+          "priority": "3",
+          "flag": false
+        },
+        {
+          "title": "playing football",
+          "priority": "3",
+          "flag": true
+        },
+        {
+          "title": "loading",
+          "priority": "3",
+          "flag": false
+        },
+        {
+          "title": "eating",
+          "priority": "2",
+          "flag": false
+        }
+      ],
+      "id": 3
+    },
+    {
+      "fName": "John",
+      "lName": "Samuel",
+      "uName": "john@s",
+      "Email": "john@gmail.com",
+      "Pass": "John@123",
+      "TaskList": [
+        {
+          "title": "Morning Walk",
+          "priority": "3",
+          "flag": true
+        },
+        {
+          "title": "Breakfast",
+          "priority": "1",
+          "flag": false
+        },
+        {
+          "title": "Prayer",
+          "priority": "2",
+          "flag": false
+        },
+        {
+          "title": "School",
+          "priority": "4",
+          "flag": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "fName": "Jenny",
+      "lName": "Samuel",
+      "uName": "jenny@12",
+      "Email": "jenny@gmail.com",
+      "Pass": "Jenny@123",
+      "TaskList": [
+        {
+          "title": "read",
+          "priority": "4",
+          "flag": true
+        },
+        {
+          "title": "play",
+          "priority": "5",
+          "flag": false
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
